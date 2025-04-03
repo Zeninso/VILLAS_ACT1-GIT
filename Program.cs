@@ -52,7 +52,7 @@ namespace ConsoleCalculator
                 Console.WriteLine();
             }
 
-            Console.WriteLine("Thank you for using the calculator!");
+            Console.WriteLine("Thank you for using the calculator, I'm Vincent Villas, I'm the creator of this calculator!");
         }
 
         
